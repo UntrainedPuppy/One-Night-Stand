@@ -1,6 +1,6 @@
 {
-	"Name": "Scars Don't Fade 2026 10",
-	"Version": 1758690626,
+	"Name": "Scars Don't Fade 2026 13",
+	"Version": 1759181962,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -239,6 +239,7 @@
 				"175",
 				"177",
 				"181",
+				"264",
 				"198",
 				"219",
 				"220",
@@ -255,6 +256,7 @@
 				"36",
 				"48",
 				"76",
+				"80",
 				"96",
 				"253",
 				"121",
@@ -286,6 +288,7 @@
 				"261",
 				"65",
 				"76",
+				"80",
 				"96",
 				"92",
 				"109",
@@ -315,12 +318,14 @@
 				"39",
 				"261",
 				"50",
+				"57",
 				"65",
 				"76",
 				"80",
 				"96",
 				"92",
 				"107",
+				"109",
 				"112",
 				"253",
 				"121",
@@ -343,12 +348,14 @@
 				"39",
 				"261",
 				"50",
+				"57",
 				"65",
 				"76",
 				"80",
 				"96",
 				"92",
 				"107",
+				"109",
 				"112",
 				"253",
 				"121",
@@ -1049,7 +1056,6 @@
 				"109",
 				"110",
 				"263",
-				"111",
 				"112",
 				"113",
 				"260",
@@ -1075,7 +1081,9 @@
 				"130"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"111"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -1766,7 +1774,6 @@
 				"109",
 				"110",
 				"263",
-				"111",
 				"112",
 				"113",
 				"260",
@@ -1792,7 +1799,9 @@
 				"130"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"111"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -2125,7 +2134,10 @@
 				418,
 				412,
 				410,
-				403
+				403,
+				416,
+				414,
+				415
 			],
 			"ItemWhitelist": [
 				0,
@@ -2369,7 +2381,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"101"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2687,7 +2701,6 @@
 				"109",
 				"110",
 				"263",
-				"111",
 				"112",
 				"113",
 				"260",
@@ -2713,7 +2726,9 @@
 				"130"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"111"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -3445,6 +3460,57 @@
 			"Name": "The Animatronic",
 			"KillerNotes": "",
 			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Krasue",
+			"KillerNotes": "",
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
